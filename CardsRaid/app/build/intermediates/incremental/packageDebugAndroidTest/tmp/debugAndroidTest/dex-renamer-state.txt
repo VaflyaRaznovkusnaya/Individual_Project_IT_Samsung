@@ -1,0 +1,13 @@
+#Sun May 21 18:54:22 YEKT 2023
+path.3=9/classes.dex
+path.2=1/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\very_\\AndroidStudioProjects\\CardsRaid\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\9\\classes.dex
+base.2=C\:\\Users\\very_\\AndroidStudioProjects\\CardsRaid\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\1\\classes.dex
+base.1=C\:\\Users\\very_\\AndroidStudioProjects\\CardsRaid\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.0=C\:\\Users\\very_\\AndroidStudioProjects\\CardsRaid\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
