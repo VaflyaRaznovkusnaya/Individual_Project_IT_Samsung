@@ -7,6 +7,9 @@ Sound and music are royalty free assets
 
 --------------
 APK folder contents APK file made by Android Studio (Electric Eel).
+
 CardRaid folder contents whole Android studio project resourses (code, raw, drawables, fonts and etc.).
+
 Presentation folder contents my presentation for my project, well, presentation.
+
 Demonstration of project folder contents video of me screen recording my project WITHOUT sound.
