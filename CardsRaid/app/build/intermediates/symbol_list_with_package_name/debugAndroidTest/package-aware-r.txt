@@ -1,0 +1,3 @@
+com.example.cardsraid.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

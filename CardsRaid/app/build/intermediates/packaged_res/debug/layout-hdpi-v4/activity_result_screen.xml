@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_main"
+    tools:context=".ResultScreen">
+
+    <Button
+        android:id="@+id/resultToMain"
+        android:layout_width="451dp"
+        android:layout_height="165dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginBottom="60dp"
+        android:background="#68000000"
+        android:fontFamily="@font/neucha"
+        android:onClick="results_go_to_menu"
+        android:text="@string/back_to_main"
+        android:textColor="@color/paper_color"
+        android:textSize="96sp"
+        android:typeface="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.499"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/game_result_text"
+        app:layout_constraintVertical_bias="0.377" />
+
+    <TextView
+        android:id="@+id/game_result_text"
+        android:layout_width="1436dp"
+        android:layout_height="217dp"
+        android:layout_marginBottom="428dp"
+        android:background="#68000000"
+        android:backgroundTint="#E9090404"
+        android:fontFamily="@font/neucha"
+        android:text="@string/loose_text"
+        android:textAlignment="center"
+        android:textColor="@color/paper_color"
+        android:textSize="96sp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rules_button"
+        app:layout_constraintVertical_bias="0.0" />
+</androidx.constraintlayout.widget.ConstraintLayout>
