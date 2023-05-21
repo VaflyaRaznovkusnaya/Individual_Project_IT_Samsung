@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CardsRaid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/brown_cards</item>
+        <item name="colorPrimaryVariant">@color/paper_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/player_1_color</item>
+        <item name="colorSecondaryVariant">@color/player_2_color</item>
+        <item name="colorOnSecondary">@color/player_3_color</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#461E1414</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Карточный рейд</string>
+    <string name="player1">Вы</string>
+    <string name="player2">Нэнси</string>
+    <string name="player3">Карл</string>
+    <string name="back_to_main">Меню</string>
+    <string name="start_game">Начать игру</string>
+    <string name="go_to_rules">Правила</string>
+    <string name="choose_card_text">Выберите карту на бой</string>
+    <string name="confirm_card_text">Выбрать карту</string>
+    <string name="deny_card_text">Выбрать другую</string>
+    <string name="close_battle">Продолжить</string>
+    <string name="result_card_winner">Победитель</string>
+    <string name="result_card_looser">Проигравший</string>
+    <string name="result_card_noone">Ничья!</string>
+    <string name="loose_text">О нет, вы упустили свою победу!</string>
+    <string name="win_text">Превосходно! Вы захватили замок.</string>
+    <string name="rules_text_1">Для каждого хода необходимо нажимать на циферблат в левой нижней части экрана.
+        Цель игры - дойти до замка, на коричневых клетках - идёшь назад, белых - вперёд, фиолетовые - отбираешь чужую карту,
+        цветные - драка на картах</string>
+</resources>
