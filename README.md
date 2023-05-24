@@ -13,3 +13,14 @@ CardRaid folder contents whole Android studio project resourses (code, raw, draw
 Presentation folder contents my presentation for my project, well, presentation.
 
 Demonstration of project folder contents video of me screen recording my project WITHOUT sound.
+
+--------------
+Содержимое:
+
+В папке CardRaid содержится папка с проектом Android Studio версии Electric Eel. В этой папке нахдится код классов, аудиофайлы, изображения, шрифты и прочее.
+
+В папке арк содержится APK файл проекта.
+
+В папке Presentation находится презентация проекта.
+
+В папке Demonstration of project находится запись экрана телефона с работой приложения БЕЗ звука.
