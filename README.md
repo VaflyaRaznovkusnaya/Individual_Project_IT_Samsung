@@ -15,6 +15,12 @@ Presentation folder contents my presentation for my project, well, presentation.
 Demonstration of project folder contents video of me screen recording my project WITHOUT sound.
 
 --------------
+Здесь находится мой индивидуальный проект, сделанный для курса "мобильная разработка на Java" от IT Samsung.
+На создание данного приложения меня вдохновила миниигра из "Нэнси Дрю: Проклятье старого замка" (Nancy Drew: the captive curse)
+Используемые изображения были сделаны с помощью Dream by WOMBO
+Используемые аудиофайлы являются royalty-free
+
+--------------
 Содержимое:
 
 В папке CardRaid содержится папка с проектом Android Studio версии Electric Eel. В этой папке нахдится код классов, аудиофайлы, изображения, шрифты и прочее.
